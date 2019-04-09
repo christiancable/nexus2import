@@ -1,0 +1,14 @@
+{
+    "name": "christiancable/nxview",
+    "description": "viewer for nexus2 files",
+    "authors": [
+        {
+            "name": "Christian Cable",
+            "email": "christian@christiancable.co.uk"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.3"
+    }
+}
